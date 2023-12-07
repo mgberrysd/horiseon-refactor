@@ -51,12 +51,13 @@ p {
     font-size: 16px;
 }
 
+/* used object-fit: cover to scale image, had to slightly reduce margin to match orginal after scaling */
+
 figure img {
-    position: relative;
     height: 800px;
     width: 100%;
-    margin: 0 auto 25px;
-    z-index: -1;
+    object-fit: cover;
+    margin-bottom: 21.5px;
 
 }
 
