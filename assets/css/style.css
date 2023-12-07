@@ -22,7 +22,9 @@ h1 {
     font-size: 48px;
 }
 
-.seo {
+/* changed from class to id due to unique instance on page */
+
+#seo {
     color: #d9dcd6;
 }
 
@@ -140,6 +142,9 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* changed to class bold from h2, other h2 tags followed different styling and this is the last element on page */
+
+.bold {
     font-size: 20px;
+    font-weight: bold;
 }
