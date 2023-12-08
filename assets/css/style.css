@@ -39,6 +39,8 @@ nav {
     list-style-type: none;
 }
 
+/* readded the header tag to li and a as these elements could be used  */
+
 header li {
     display: inline-block;
     margin-left: 25px;
