@@ -8,6 +8,14 @@ Thus, the goal of this project was to add accessible alt attributes to the image
 
 This project highlighted the use of semantic elements in html and associated element selectors in css. It also highlighted using element selectors to condense code by applying styles to multiple parts of the page rather then creating classes or ids for every element.
 
+## Usage
+
+A deployed version of the project can be found at https://mgberrysd.github.io/horiseon-refactor/
+
+When loaded the page should appear as
+
+![Refactored Horiseon page deployed via github pages](assets/images/screenshot.png)
+
 ## Credits
 
 This refactor of the Horiseon website, including the html index and css sytyle sheet, was created by Michael Berry.
